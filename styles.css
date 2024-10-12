@@ -1,2 +1,20 @@
-
+div{
+	height:100px;
+	width:100px;
+}
+.holder {
+    display: flex;
+    flex-wrap: wrap; /* Allows items to move to the next row */
+    justify-content: space-between; /* Distributes space between items */
+  
+}
+.green{
+	background-color:green;
+}
+.red{
+	background-color:red;
+}
+.blue{
+	background-color:blue;
+}
 /* Your CSS Code here. */
